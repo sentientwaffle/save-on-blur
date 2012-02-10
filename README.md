@@ -2,6 +2,10 @@
 A [Stratus Editor](http://stratuseditor.com/) plugin to save files when
 they lose focus.
 
+# Installation
+
+    $ git clone git://github.com/sentientwaffle/save-on-blur.git
+    $ stratus plugin:install YOUR_USERNAME save-on-blur
 
 # Configuration
 
